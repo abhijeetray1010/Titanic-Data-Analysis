@@ -20,15 +20,15 @@ Third, there will be some data exploration. This will be completed mostly by loa
 ##### Data Description
 (from https://www.kaggle.com/c/titanic)
 
-Passenger ID : Serial ID
-Survived: (0 = No; 1 = Yes)
-Pclass: Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)
-Name: Full Name of the Passenger
-sex: Male or Female
-Age: age in years
-SibSp: Number of Siblings/Spouses Aboard
-Parch: Number of Parents/Children Aboard
-Ticket: ticket Number
-Fare: Passenger Fare
-Cabin: Cabin number
-Embarked: Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)
+Passenger ID : Serial ID.
+Survived: (0 = No; 1 = Yes).
+Pclass: Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd).
+Name: Full Name of the Passenger.
+sex: Male or Female.
+Age: age in years.
+SibSp: Number of Siblings/Spouses Aboard.
+Parch: Number of Parents/Children Aboard.
+Ticket: ticket Number.
+Fare: Passenger Fare.
+Cabin: Cabin number.
+Embarked: Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton).
