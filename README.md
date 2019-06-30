@@ -1,5 +1,4 @@
 # Titanic-Data-Analysis
-#### by Abhijeet Ray
 ### Introduction
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 ##### Purpose
@@ -18,7 +17,7 @@ First, the raw comma separated values (.cvs) data will be loaded into a Python (
 Secondly, Data Wrangling process would be carried out
 Third, there will be some data exploration. This will be completed mostly by loading plots in order to better understand the data with visualization.
 
-Data Description
+##### Data Description
 (from https://www.kaggle.com/c/titanic)
 
 Passenger ID : Serial ID
