@@ -2,7 +2,7 @@
 ### Introduction
 The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
 ##### Purpose
-To perform data analysis and predicitive modelling using Naives Bayes on titanic dataset and . The project makes use of NumPy, Pandas, sci-kit learn and Data Visualization Libraries.
+To perform data analysis and predicitive modelling using Naives Bayes on titanic dataset. The project makes use of NumPy, Pandas, sci-kit learn and Data Visualization Libraries.
 ##### About the dataset
 This dataset contains demographics and passenger information from 891 of the 2224 passengers and crew on board the Titanic. Description of this dataset can be viewed on the Kaggle website, where the data was obtained (https://www.kaggle.com/c/titanic/data).
 ##### Questions
